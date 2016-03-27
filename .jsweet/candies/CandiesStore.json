@@ -1,0 +1,11 @@
+{
+  "candies": [
+    {
+      "name": "jsweet-core",
+      "version": "1.0.0-SNAPSHOT",
+      "lastUpdateTimestamp": 1454315640000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "1.0.0"
+    }
+  ]
+}
